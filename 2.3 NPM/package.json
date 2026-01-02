@@ -1,0 +1,17 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "lojj",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rithika",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^13.1.0",
+    "sillyname": "^0.1.0",
+    "superheros": "^1.0.0"
+  }
+}
